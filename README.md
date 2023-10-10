@@ -1,2 +1,2 @@
 # Bird-Species-Classification
-Webapp that uses CNN to predict bird species
+Prediction of bird species using simple Convolution Neural Network
